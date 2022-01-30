@@ -5,6 +5,7 @@ background-color: #AAAAAA;
 
 article {
   width: 800px;
+float: left;
 }
 
 article header h1 {
@@ -17,11 +18,20 @@ article header p {
 }
 
 article figure {
-  width: 600px;
+  width: 200px;
   border: 10px dotted #56AABB;
   padding: 10px;
+
 }
 
 article figure img {
   width: 100%;
+
 }
+.tabfig{
+
+}
+.fig{
+   float: left; 
+   width: 30%;
+    }
