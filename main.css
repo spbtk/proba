@@ -1,0 +1,27 @@
+body {
+  font-family: Verdana;
+background-color: #AAAAAA;
+}
+
+article {
+  width: 800px;
+}
+
+article header h1 {
+  color: green;
+}
+
+article header p {
+  background-color: red;
+  color: white;
+}
+
+article figure {
+  width: 600px;
+  border: 10px dotted #56AABB;
+  padding: 10px;
+}
+
+article figure img {
+  width: 100%;
+}
